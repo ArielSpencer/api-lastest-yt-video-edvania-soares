@@ -10,7 +10,7 @@ app.get('/', (req, res) => {
   res.send(`
     <h1>Welcome to the Nutri Edvânia Soares Latest Video API</h1>
     <p>Access <strong><a href="/latest-video">/latest-video</a></strong> to get the latest video information from Edvânia Soares YouTube channel.</p>
-    <p>For more details, check out the <a href="http://arielspencer.com.br/github" target="_blank">documentation on GitHub</a>.</p>
+    <p>For more details, check out the <a href="https://github.com/ArielSpencer/api-lastest-yt-video-edvania-soares" target="_blank">documentation on GitHub</a>.</p>
     <p>Developed by <a href="http://arielspencer.com.br" target="_blank">Ariel Spencer</a></p>
   `);
 });
